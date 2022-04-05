@@ -37,5 +37,5 @@ while True:
     try:
         bot.polling()
     except Exception:
-        time.sleep(15)
+        time.sleep(4.5)
 
